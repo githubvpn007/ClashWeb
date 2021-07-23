@@ -42,7 +42,7 @@ ClashWeb是致力于将Clash变得轻量化的项目，通过批处理工具来�
 
 下载的是7z压缩包，解压需要安装[7-zip](https://www.7-zip.org/)  
 
-解压后 直接双击 ClashWeb.exe 即可运行
+解压后 直接双击 **ClashWeb.exe** 即可运行
 
 
 
