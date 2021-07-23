@@ -47,6 +47,16 @@ ClashWeb是致力于将Clash变得轻量化的项目，通过批处理工具来�
 
 
 
+(2)添加订阅  
+
+如果您还没有机场订阅 [请看这里](https://github.com/githubvpn007/v2rayNvpn#%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB)  
+
+如果您不知道什么是订阅 [请看这里](https://github.com/githubvpn007/v2rayNvpn)  
+
+
+请右键点击电脑右下角的ClashWeb图标👉其他设置👉控制后台👉打开控制台，在弹出的网页中点击订阅管理，然后输入订阅链接并下载配置。【注】托盘图标即右下角任务栏中的猫咪图标。  
+
+![](https://github.com/githubvpn007/ClashWeb/blob/main/images/1.png)
 
 
 
