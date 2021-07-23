@@ -15,4 +15,45 @@ ClashWeb是致力于将Clash变得轻量化的项目，通过批处理工具来�
 
 `此时，仅有Clash内核和Clashweb.exe在后台。后者占用内存2M`
 
-`或者，你也可以关闭ClashWeb.exe 仅保留Clash内核。通过浏览器切换节点。`
+`或者，你也可以关闭ClashWeb.exe 仅保留Clash内核。通过浏览器切换节点。`  
+
+
+
+**特点**  
+
+- 轻·内存占用低至2M  
+- 快·UI响应丝般顺滑  
+- 稳·7×24的持续稳定  
+- 美·UI设计简约纯粹  
+
+
+<br/>
+<br/>
+
+
+
+步骤
+---
+
+
+(1)下载
+
+[下载地址](https://github.com/lzdnico/ClashWeb/releases)    
+下载的是7z压缩包，解压需要安装[7-zip](https://www.7-zip.org/) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
